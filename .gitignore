@@ -1,5 +1,6 @@
 
 *.jsp
-!CartServlet.java
-FoodMunch-main/
 *.java
+CartServlet.java
+FoodMunch-main/
+controller/
